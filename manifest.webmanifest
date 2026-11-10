@@ -1,0 +1,19 @@
+{
+  "name": "Recomp Zwölf Wochen",
+  "short_name": "Recomp",
+  "description": "Trainingsplan, Protokoll und Pausenuhr für den 12-Wochen-Block.",
+  "lang": "de-AT",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EBEEF3",
+  "theme_color": "#EBEEF3",
+  "categories": ["health", "fitness"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
